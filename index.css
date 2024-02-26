@@ -6,3 +6,17 @@ h2{
     background: red;
     height: 50px;
 }
+.header{
+    display: flex;
+    height: 50px;
+}
+
+.logo{
+    background: red;
+    width: 300px;
+}
+
+.search{
+    width: 70%;
+    background: #afafaf;
+}
